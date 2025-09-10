@@ -1,25 +1,36 @@
 # 👋 Hi, I'm Gladys Dalla  
 
-🌐 **Cloud & AI Enthusiast** | ☁️ **Microsoft Azure** | 🤖 **Data & ML/AI**  
-
-I’m passionate about **leveraging cloud infrastructure to build, secure, and scale AI-driven solutions**.  
-I hold certifications in **Microsoft Azure (AZ-900, AI-900)** and **Oracle Cloud (OCI)** 
-and I’m working on hands-on projects that bring together **Data, Machine Learning, Automation, and Cloud Security**.  
+🌐 **Data & AI Enthusiast** | 🤖 Building hands-on projects in **Machine Learning, Cloud, Automation, and Data Security**
 
 ---
 
 ## 🧰 Languages & Tools  
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>  
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>  
-<img align="left" alt="Terraform" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/>  
-<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>  
-<img align="left" alt="Oracle Cloud" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"/>  
-<img align="left" alt="SQL Server" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>  
-<img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/power-bi.svg"/>   
-<img align="left" alt="n8n" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4"/>    
-
-<br /><br /><br />
+<p align="left">
+  <!-- Devicon-based icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="32" height="32" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="32" height="32" style="margin-right:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="32" height="32" style="margin-right:10px;"/>
+  
+  <!-- Version control -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="32" height="32" style="margin-right:10px;"/>
+  
+  <!-- Containers / CI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="32" height="32" style="margin-right:10px;"/>
+  
+  <!-- Databases / SQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" alt="SQL" width="32" height="32" style="margin-right:10px;"/>
+  
+  <!-- Analytics / Data Science -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="32" height="32" style="margin-right:10px;"/>
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg?raw=true" title="Power BI" alt="Power BI" width="32" height="32" style="padding:4px; background:white; border-radius:6px; box-shadow:0 0 2px rgba(0,0,0,0.25); margin-right:10px;"/>
+  
+  <!-- Cloud -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" title="Oracle Cloud" alt="Oracle Cloud" width="32" height="32" style="padding:4px; background:white; border-radius:6px; box-shadow:0 0 2px rgba(0,0,0,0.25); margin-right:10px;"/>
+  
+  <!-- Automation -->
+  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" title="n8n" alt="n8n" width="32" height="32" style="padding:4px; background:white; border-radius:6px; box-shadow:0 0 2px rgba(0,0,0,0.25); margin-right:10px;"/>
+</p>    
 
 ---
 
