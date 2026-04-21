@@ -2,9 +2,7 @@
 
 🌐 **Data & AI Enthusiast** | 🤖 Building hands-on projects in **Machine Learning, Cloud, Automation, and Data Security**
 
----
-
-## 🧰 Languages & Tools
+### 🧰 Languages & Tools
 
 | | | | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
